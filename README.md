@@ -1,0 +1,1 @@
+"angularAuthentication-ionic" 
